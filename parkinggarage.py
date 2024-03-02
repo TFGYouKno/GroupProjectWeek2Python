@@ -43,7 +43,7 @@ class Parking_Garage():
             print("You have been deemed financially unfit for vehicle ownership. Your car has been siezed by Fucklechucks parking. Come back when you have my money!")
             self.current_ticket["paid"] = False
         if payment >= 120:
-            print("Thanks for the money! As a courtesy, we have returned your hubcaps and catalytic converter to your back seat. Have a nice day!")
+            print("Thanks for the money! As a courtesy, we have returned your hubcaps, change, and catalytic converter to your back seat. Have a nice day!")
             self.current_ticket["paid"] = True
 #    def leave_Fucklechucks(self):
     def runner(self):
