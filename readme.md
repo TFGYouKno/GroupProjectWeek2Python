@@ -42,6 +42,6 @@ When the project is completed, commit the final changes, sync all pull requests,
 
 ###### List group responsiblities below:
 
-Harrison Brockhoff- driver, ideas
+Harrison Brockhoff- driver, ideas ##Note## Inspired by the carls jr kiosk in Idiocracy. You'll see..
 Faisal Hussein- navigator, ideas
 Judah Sen- navigator, ideas
