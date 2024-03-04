@@ -1,7 +1,3 @@
-Harrison Brockhoff-
-Faisal Hussein-
-Judah Sen-
-
 # Parking Garage Project
 
 Your assignment for today is to create a parking garage class to get more familiar with Object Oriented Programming(OOP). This project would usually be a pair programming project. However, for the size our class we will have groups of 3. This means, that one person(The driver) will code the project while the other people(The navigators)will brainstorm and guide to a working solution.
@@ -45,3 +41,7 @@ When the project is completed, commit the final changes, sync all pull requests,
 
 
 ###### List group responsiblities below:
+
+Harrison Brockhoff- driver, ideas
+Faisal Hussein- navigator, ideas
+Judah Sen- navigator, ideas
